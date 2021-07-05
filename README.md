@@ -20,6 +20,7 @@ unknown docker-images. It is entirely built from Dockerfile on top of
    container will have this prefix in name.
  * `docker_compose_file` - Path to the docker-compose file in the repository.
 
+
 # Usage example
 
 Let's say we have a repo with single docker-compose file in it and remote
